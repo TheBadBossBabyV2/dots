@@ -1,0 +1,26 @@
+# Core settings
+width = 30%
+height = 20%
+anchor = center
+horizontal = false
+prompt-text = "  "
+font = Terminess Nerd Font
+font-size = 12
+
+Pure black background, white text
+background-color = #000000
+text-color = #FFFFFF
+selection-background-color = #000000
+border-width = 2
+border-color = #FFFFFF
+outline-width = 0
+
+DRUN behavior
+drun = true
+require-match = false
+fuzzy-match = true
+result-spacing = 8
+padding-top = 8
+padding-bottom = 8
+padding-left = 8
+padding-right = 8
