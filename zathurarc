@@ -1,0 +1,31 @@
+set default-bg "#000000"
+set default-fg "#FFFFFF"
+set recolor-darkcolor "#FFFFFF"
+set recolor-lightcolor "#000000"
+set recolor true
+
+set statusbar-bg "#000000"
+set statusbar-fg "#FFFFFF"
+set inputbar-bg "#000000"
+set inputbar-fg "#FFFFFF"
+set completion-bg "#000000"
+set completion-fg "#FFFFFF"
+set completion-highlight-bg "#FFFFFF"
+set completion-highlight-fg "#000000"
+set highlight-color "#FFFFFF"
+set highlight-active-color "#FFFFFF"
+set selection-color "#FFFFFF"
+set index-bg "#000000"
+set index-fg "#FFFFFF"
+set index-active-bg "#FFFFFF"
+set index-active-fg "#000000"
+set notification-bg "#000000"
+set notification-fg "#FFFFFF"
+set notification-error-bg "#000000"
+set notification-error-fg "#FFFFFF"
+
+set statusbar-h-padding 0
+set statusbar-format ""
+
+#set statusbar-basename true
+#set statusbar-format "%b"
